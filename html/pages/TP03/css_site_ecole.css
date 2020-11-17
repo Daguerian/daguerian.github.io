@@ -1,0 +1,52 @@
+body
+{
+    background-color: #A7A37E;
+}
+h1,h2,h3
+{
+    text-align: center;
+}
+
+header
+{
+    border: solid yellow;
+    /* box-shadow: 10px 10px 10px ; */
+}
+
+nav
+{
+    border: solid orange;
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+main
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 500px;
+}
+
+#presentation
+{
+    border: solid blue;
+    width: 30%;
+    background-color: lightgrey;
+}
+
+#jeux
+{
+    border: solid darkcyan;
+    width: 70%;
+    background: linear-gradient(to bottom left,rgb(48, 97, 221), white)
+
+}
+
+footer
+{
+    border: solid black;
+    text-align: center;
+}

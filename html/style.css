@@ -1,0 +1,27 @@
+body
+{
+    background-color: white;
+    /* color: black; */
+}
+header img
+{
+    height: 68px; width: 125px;
+}
+
+header
+{
+    border:4px black solid;
+    border-radius: 15px;
+    justify-content: space-around;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /* background-color: ; */
+    
+}
+
+#titrePage
+{
+    /* text-align: center; */
+}
